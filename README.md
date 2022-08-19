@@ -39,32 +39,32 @@ Summary of what I learned trough this course:
 
 ## Sections of the Course
 
-✔ Section 1: Introduction to Course
-✔ Section 2: OPTIONAL: Python Crash Course
-✔ Section 3: Machine Learning Pathway Overview
-✔ Section 4: NumPy
-✔ Section 5: Pandas
-✔ Section 6: Matplotlib
-✔ Section 7: Seaborn Data Visualizations
-✔ Section 8: Data Analysis and Visualization Capstone Project Exercise
-✔ Section 9: Machine Learning Concepts Overview
-✔ Section 10: Linear Regression
-✔ Section 11: Feature Engineering and Data Preparation
-✔ Section 12: Cross Validation, Grid Search, and the Linear Regression
-✔ Section 13: Project
-✔ Section 14: Logistic Regression
-❌ Section 15: KNN-KNearest Neighbors
-❌ Section 16: Support Vector Machines
-❌ Section 17: Tree Based Methods: Decision Tree Learning
-❌ Section 18: Boosting Methods
-❌ Section 19: Supervised Learning Capstone Project- Cohort Analysis and Tree Based Methods
-❌ Section 20: Naive Bayes Classification and Natural Language Processing (Supervised Learning)
-❌ Section 21: Unsupervised Learning
-❌ Section 22: K-Means Clustering
-❌ Section 23: Hierarchical Clustering
-❌ Section 24: DBSCAN-Density-based spatial clustering of applications with noise
-❌ Section 25: PCA- Principal Component Analysis and Manifold Learning
-❌ Section 26: Model Deployment
+✔ Section 1: Introduction to Course<br>
+✔ Section 2: OPTIONAL: Python Crash Course<br>
+✔ Section 3: Machine Learning Pathway Overview<br>
+✔ Section 4: NumPy<br>
+✔ Section 5: Pandas<br>
+✔ Section 6: Matplotlib<br>
+✔ Section 7: Seaborn Data Visualizations<br>
+✔ Section 8: Data Analysis and Visualization Capstone Project Exercise<br>
+✔ Section 9: Machine Learning Concepts Overview<br>
+✔ Section 10: Linear Regression<br>
+✔ Section 11: Feature Engineering and Data Preparation<br>
+✔ Section 12: Cross Validation, Grid Search, and the Linear Regression<br>
+✔ Section 13: Project<br>
+✔ Section 14: Logistic Regression<br>
+❌ Section 15: KNN-KNearest Neighbors<br>
+❌ Section 16: Support Vector Machines<br>
+❌ Section 17: Tree Based Methods: Decision Tree Learning<br>
+❌ Section 18: Boosting Methods<br>
+❌ Section 19: Supervised Learning Capstone Project- Cohort Analysis and Tree Based Methods<br>
+❌ Section 20: Naive Bayes Classification and Natural Language Processing (Supervised Learning)<br>
+❌ Section 21: Unsupervised Learning<br>
+❌ Section 22: K-Means Clustering<br>
+❌ Section 23: Hierarchical Clustering<br>
+❌ Section 24: DBSCAN-Density-based spatial clustering of applications with noise<br>
+❌ Section 25: PCA- Principal Component Analysis and Manifold Learning<br>
+❌ Section 26: Model Deployment<br>
 
 ## 🛠 Tools and technologies
 
