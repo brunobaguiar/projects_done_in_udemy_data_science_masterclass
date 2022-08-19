@@ -1,5 +1,5 @@
 <p align="center">
-<img width="" src="https://c.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif" align="center" alt="gif" />
+<img width="" src="https://media0.giphy.com/media/4FQMuOKR6zQRO/giphy.gif?cid=ecf05e47q5dsu5w71qypmr5phjo3vyckjmkbsybvju1iylkr&rid=giphy.gif&ct=g" align="center" alt="gif" />
 <h1 align="center">2022 Python for Machine Learning & Data Science Masterclass 
 
 </h1>
