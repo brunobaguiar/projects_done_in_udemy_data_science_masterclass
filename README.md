@@ -39,25 +39,23 @@ Summary of what I learned trough this course:
 
 ## Sections of the Course
 
-- [Day 1](day-01-band_name_generator): Working with Variables in Python to Manage Data
-
 ✔ Section 1: Introduction to Course<br>
 ✔ Section 2: OPTIONAL: Python Crash Course<br>
 ✔ Section 3: Machine Learning Pathway Overview<br>
-✔ [Section 4](section_04_numpy): NumPy<br><br>
-✔ Section 5: Pandas<br>
-✔ Section 6: Matplotlib<br>
-✔ Section 7: Seaborn Data Visualizations<br>
-✔ Section 8: Data Analysis and Visualization Capstone Project Exercise<br>
+✔ [Section 4](section_04_numpy): NumPy<br>
+✔ [Section 5](section_05_pandas): Pandas<br>
+✔ [Section 6](section_06_matplotlib): Matplotlib<br>
+✔ [Section 7](section_07_seaborn): Seaborn Data Visualizations<br>
+✔ [Section 8](section_08_capstone_project_data_analyst): Data Analysis and Visualization Capstone Project Exercise<br>
 ✔ Section 9: Machine Learning Concepts Overview<br>
-✔ Section 10: Linear Regression<br>
-✔ Section 11: Feature Engineering and Data Preparation<br>
-✔ Section 12: Cross Validation, Grid Search, and the Linear Regression<br>
-✔ Section 13: Project<br>
-✔ Section 14: Logistic Regression<br>
-✔ Section 15: KNN-KNearest Neighbors<br>
-❌ Section 16: Support Vector Machines<br>
-❌ Section 17: Tree Based Methods: Decision Tree Learning<br>
+✔ [Section 10](section_10_linear_regression): Linear Regression<br>
+✔ [Section 11](section_11_feature_engineering): Feature Engineering and Data Preparation<br>
+✔ [Section 12](section_12_cross_validation_and_linear_regression_project): Cross Validation, Grid Search, and the Linear Regression Project<br>
+✔ [Section 13](section_13_logistic_regression): Logistic Regression<br>
+✔ [Section 14](section_14_K_nearest-neighbors): KNN-KNearest Neighbors<br>
+✔ [Section 15](section_15_SVM): Support Vector Machines<br>
+❌ Section 16: Tree Based Methods: Decision Tree Learning<br>
+❌ Section 17: Random Forests<br>
 ❌ Section 18: Boosting Methods<br>
 ❌ Section 19: Supervised Learning Capstone Project- Cohort Analysis and Tree Based Methods<br>
 ❌ Section 20: Naive Bayes Classification and Natural Language Processing (Supervised Learning)<br>
