@@ -42,7 +42,7 @@ Summary of what I learned trough this course:
 ✔ Section 1: Introduction to Course<br>
 ✔ Section 2: OPTIONAL: Python Crash Course<br>
 ✔ Section 3: Machine Learning Pathway Overview<br>
-✔ Section 4: NumPy<br>
+✔ [section_04_numpy]: NumPy<br><br>
 ✔ Section 5: Pandas<br>
 ✔ Section 6: Matplotlib<br>
 ✔ Section 7: Seaborn Data Visualizations<br>
