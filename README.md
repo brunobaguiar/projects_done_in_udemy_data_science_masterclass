@@ -65,6 +65,7 @@ Summary of what I learned trough this course:
 ❌ Section 24: DBSCAN-Density-based spatial clustering of applications with noise<br>
 ❌ Section 25: PCA- Principal Component Analysis and Manifold Learning<br>
 ❌ Section 26: Model Deployment<br>
+[DATA](DATA) - All data used throughout the course
 
 ## 🛠 Tools and technologies
 
