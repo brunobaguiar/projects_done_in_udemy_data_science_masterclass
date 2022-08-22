@@ -53,7 +53,7 @@ Summary of what I learned trough this course:
 ✔ Section 12: Cross Validation, Grid Search, and the Linear Regression<br>
 ✔ Section 13: Project<br>
 ✔ Section 14: Logistic Regression<br>
-❌ Section 15: KNN-KNearest Neighbors<br>
+✔ Section 15: KNN-KNearest Neighbors<br>
 ❌ Section 16: Support Vector Machines<br>
 ❌ Section 17: Tree Based Methods: Decision Tree Learning<br>
 ❌ Section 18: Boosting Methods<br>
