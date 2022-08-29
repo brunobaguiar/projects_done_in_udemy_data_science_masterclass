@@ -54,9 +54,9 @@ Summary of what I learned trough this course:
 ✔ [Section 13](section_13_logistic_regression): Logistic Regression<br>
 ✔ [Section 14](section_14_K_nearest-neighbors): KNN-KNearest Neighbors<br>
 ✔ [Section 15](section_15_SVM): Support Vector Machines<br>
-❌ Section 16: Tree Based Methods: Decision Tree Learning<br>
-❌ Section 17: Random Forests<br>
-❌ Section 18: Boosting Methods<br>
+✔ [Section 16](section_16_decision_trees): Tree Based Methods: Decision Tree Learning<br>
+✔ [Section 17](section_17_random_forests): Random Forests<br>
+✔ [Section 18](section_18_boosting_methods): Boosting Methods<br>
 ❌ Section 19: Supervised Learning Capstone Project- Cohort Analysis and Tree Based Methods<br>
 ❌ Section 20: Naive Bayes Classification and Natural Language Processing (Supervised Learning)<br>
 ❌ Section 21: Unsupervised Learning<br>
