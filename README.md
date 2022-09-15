@@ -57,7 +57,7 @@ Summary of what I learned trough this course:
 ✔ [Section 16](section_16_decision_trees): Tree Based Methods: Decision Tree Learning<br>
 ✔ [Section 17](section_17_random_forests): Random Forests<br>
 ✔ [Section 18](section_18_boosting_methods): Boosting Methods<br>
-❌ Section 19: Supervised Learning Capstone Project- Cohort Analysis and Tree Based Methods<br>
+✔ [Section 19](section_19_supervised_learning_capstone_project_cohort_analysis): Supervised Learning Capstone Project- Cohort Analysis and Tree Based Methods<br>
 ❌ Section 20: Naive Bayes Classification and Natural Language Processing (Supervised Learning)<br>
 ❌ Section 21: Unsupervised Learning<br>
 ❌ Section 22: K-Means Clustering<br>
