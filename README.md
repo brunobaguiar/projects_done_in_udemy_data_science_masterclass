@@ -58,9 +58,9 @@ Summary of what I learned trough this course:
 ✔ [Section 17](section_17_random_forests): Random Forests<br>
 ✔ [Section 18](section_18_boosting_methods): Boosting Methods<br>
 ✔ [Section 19](section_19_supervised_learning_capstone_project_cohort_analysis): Supervised Learning Capstone Project- Cohort Analysis and Tree Based Methods<br>
-❌ Section 20: Naive Bayes Classification and Natural Language Processing (Supervised Learning)<br>
-❌ Section 21: Unsupervised Learning<br>
-❌ Section 22: K-Means Clustering<br>
+✔ [Section 20](section_20_naive_bayes_classification_and_NLP): Naive Bayes Classification and Natural Language Processing (Supervised Learning)<br>
+✔ Section 21: Unsupervised Learning<br>
+✔ [Section 22](section_22_kmeans_clustering): K-Means Clustering<br>
 ❌ Section 23: Hierarchical Clustering<br>
 ❌ Section 24: DBSCAN-Density-based spatial clustering of applications with noise<br>
 ❌ Section 25: PCA- Principal Component Analysis and Manifold Learning<br>
