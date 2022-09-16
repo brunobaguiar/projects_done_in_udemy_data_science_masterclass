@@ -86,7 +86,7 @@ Summary of what I learned trough this course:
 
 
 <p align="center">
-<img width="" src="https://www.udemy.com/certificate/UC-f1d333c3-8043-4df3-8747-aaa090c9d456/" align="center" alt="gif" />
+<img width="" src="[https://www.udemy.com/certificate/UC-f1d333c3-8043-4df3-8747-aaa090c9d456/](https://udemy-certificate.s3.amazonaws.com/image/UC-f1d333c3-8043-4df3-8747-aaa090c9d456.jpg?v=1663366755000)" align="center" alt="gif" />
 </p>
 
 This certificate above verifies that Bruno Aguiar successfully completed the course 2022 Python for Machine Learning & Data Science Masterclass on 09/16/2022 as taught by Jose Portilla on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion.
