@@ -61,10 +61,10 @@ Summary of what I learned trough this course:
 ✔ [Section 20](section_20_naive_bayes_classification_and_NLP): Naive Bayes Classification and Natural Language Processing (Supervised Learning)<br>
 ✔ Section 21: Unsupervised Learning<br>
 ✔ [Section 22](section_22_kmeans_clustering): K-Means Clustering<br>
-❌ Section 23: Hierarchical Clustering<br>
-❌ Section 24: DBSCAN-Density-based spatial clustering of applications with noise<br>
-❌ Section 25: PCA- Principal Component Analysis and Manifold Learning<br>
-❌ Section 26: Model Deployment<br>
+✔ [Section 23](section_23_hierarchical_clustering): Hierarchical Clustering<br>
+✔ [Section 24](section_24_DBSCAN): DBSCAN-Density-based spatial clustering of applications with noise<br>
+✔ [Section 25](section_25_PCA): PCA- Principal Component Analysis and Manifold Learning<br>
+✔ Section 26: Model Deployment<br>
 [DATA](DATA) - All data used throughout the course
 
 ## 🛠 Tools and technologies
@@ -86,12 +86,11 @@ Summary of what I learned trough this course:
 
 
 <p align="center">
-[Image of the certificate]
-<img width="" src="" align="center" alt="gif" />
+<img width="" src="https://www.udemy.com/certificate/UC-f1d333c3-8043-4df3-8747-aaa090c9d456/" align="center" alt="gif" />
 </p>
 
-[Description of the certificate]
+This certificate above verifies that Bruno Aguiar successfully completed the course 2022 Python for Machine Learning & Data Science Masterclass on 09/16/2022 as taught by Jose Portilla on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion.
 
 <hr>
 
-Bruno Aguiar August 18, 2022
+Bruno Aguiar September 16, 2022
