@@ -67,16 +67,24 @@ Numpy Operators.
 ✔ [Section 10](section_10_linear_regression): Linear Regression<br>
 
 > Linear Regression
-> - Teste, teste<br>
+> - Scikit-learn.linear_model (Linear Regression), Scikit-learn.metrics (mean_absolute_error,mean_squared_error), Residuals Plot, Probability Plot, model.coef_, model deployment (joblib) <br>
 
 > Polynomial Regression
-> - Teste, teste<br>
+> - Scikit-learn.preprocessing (PolynomialFeatures), Scikit-learn.model_selection (train_test_split), Polynomial Complexity x RSME, Scikit-learn.linear_model (Linear Regression), model deployment (joblib) <br>
+
 > Regularization
-> - Teste, teste<br>
+> - Scikit-learn.preprocessing (PolynomialFeatures, StandardScaler), Scikit-learn.model_selection (train_test_split), Scikit-learn.linear_model (Ridge, RidgeCV, LassoCV, ElasticNetCV), Scikit-learn.metrics (mean_absolute_error,mean_squared_error, SCORERS), hyperparamenters tunning<br>
 
 ✔ [Section 11](section_11_feature_engineering): Feature Engineering and Data Preparation<br>
 
-> Teste
+> Dealing with outliers
+> - S <br>
+
+> Dealing with Missing Data
+> - S <br>
+
+> Dealing with Categorical Data
+> - S <br>
 
 
 ✔ [Section 12](section_12_cross_validation_and_linear_regression_project): Cross Validation, Grid Search, and the Linear Regression Project<br>
