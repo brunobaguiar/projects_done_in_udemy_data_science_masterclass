@@ -67,11 +67,11 @@ Numpy Operators.
 ✔ [Section 10](section_10_linear_regression): Linear Regression<br>
 
 > Linear Regression
-> - Teste, teste
-> Polynomial Regression
-> - Teste, teste
-> Regularization
-> - Teste, teste
+- Teste, teste
+Polynomial Regression
+- Teste, teste
+Regularization
+- Teste, teste
 
 ✔ [Section 11](section_11_feature_engineering): Feature Engineering and Data Preparation<br>
 
