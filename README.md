@@ -43,16 +43,16 @@ Summary of what I learned trough this course:
 ✔ Section 2: OPTIONAL: Python Crash Course<br>
 ✔ Section 3: Machine Learning Pathway Overview<br>
 ✔ [Section 4](section_04_numpy): NumPy<br>
-    #Numpy Arrays, Random distributions of data, Key attributes and method calls of Numpy arrays, Indexing and Selection, 
+- Numpy Arrays, Random distributions of data, Key attributes and method calls of Numpy arrays, Indexing and Selection, 
 Numpy Operators<br>
 ✔ [Section 5](section_05_pandas): Pandas<br>
-    #Series, Operations, DataFrames, Read csv files, Grabbing information from DataFrame, Columns, Grabbing information based on index and add more rows, Condtion Formating/Filter, Useful Methods, Identify and remove duplicates, Handle Missing Data, Groupby Operations, Concatenation, Merge, Text Methods, Time Methods, Data Input and Output, SQL (just basics)<br>
+- Series, Operations, DataFrames, Read csv files, Grabbing information from DataFrame, Columns, Grabbing information based on index and add more rows, Condtion Formating/Filter, Useful Methods, Identify and remove duplicates, Handle Missing Data, Groupby Operations, Concatenation, Merge, Text Methods, Time Methods, Data Input and Output, SQL (just basics)<br>
 ✔ [Section 6](section_06_matplotlib): Matplotlib<br>
-    #Basics, Figure Object, Figure Parameters, Subplots, Legends, Styling<br>
+- Basics, Figure Object, Figure Parameters, Subplots, Legends, Styling<br>
 ✔ [Section 7](section_07_seaborn): Seaborn Data Visualizations<br>
-        #<br>
+- <br>
 ✔ [Section 8](section_08_capstone_project_data_analyst): Data Analysis and Visualization Capstone Project Exercise<br>
-        #<br>
+- #<br>
 ✔ Section 9: Machine Learning Concepts Overview<br>
 ✔ [Section 10](section_10_linear_regression): Linear Regression<br>
         #<br>
