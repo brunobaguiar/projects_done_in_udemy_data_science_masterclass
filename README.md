@@ -48,7 +48,8 @@ Numpy Operators<br>
 ✔ [Section 5](section_05_pandas): Pandas<br>
 - Series, Operations, DataFrames, Read csv files, Grabbing information from DataFrame, Columns, Grabbing information based on index and add more rows, Condtion Formating/Filter, Useful Methods, Identify and remove duplicates, Handle Missing Data, Groupby Operations, Concatenation, Merge, Text Methods, Time Methods, Data Input and Output, SQL (just basics)<br>
 ✔ [Section 6](section_06_matplotlib): Matplotlib<br>
-- Basics, Figure Object, Figure Parameters, Subplots, Legends, Styling<br>
+- Basics, Figure Object, Figure Parameters, Subplots, Legends, Styling
+<br>
 ✔ [Section 7](section_07_seaborn): Seaborn Data Visualizations<br>
 - <br>
 ✔ [Section 8](section_08_capstone_project_data_analyst): Data Analysis and Visualization Capstone Project Exercise<br>
