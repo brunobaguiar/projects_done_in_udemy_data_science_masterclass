@@ -49,7 +49,7 @@ Numpy Operators.
 
 ✔ [Section 5](section_05_pandas): Pandas<br>
 
-> Series, Operations, DataFrames, Read csv files, Grabbing information from DataFrame, Columns, Grabbing information based on index and add more rows, Condtion Formating/Filter, Useful Methods, Identify and remove duplicates, Handle Missing Data, Groupby Operations, Concatenation, Merge, Text Methods, Time Methods, Data Input and Output, SQL (just basics).
+> Series, Operations, DataFrames, Read csv files, Grabbing information from DataFrame, Columns, Grabbing information based on index and add more rows, Condtion Formating/Filter, Useful Methods (apply,vectorize,replace,nlargest) Describing and Sorting Methods, Identify and remove duplicates, Handle Missing Data, Groupby Operations, Concatenation, Merge, Text Methods, Time Methods, Data Input and Output, SQL (just basics).
 
 ✔ [Section 6](section_06_matplotlib): Matplotlib<br>
 
@@ -57,16 +57,21 @@ Numpy Operators.
 
 ✔ [Section 7](section_07_seaborn): Seaborn Data Visualizations<br>
 
-> Teste
+> Scatterplots, Distribution Plots (Rug Plot, Histogram, KDE Plot), Categorical Plots (Countplot, Barplot, Boxplot, Violinplot, Swarmplot, Boxenplot), Comparison Plots (Jointplot, Pairplot), Seaborn Grids (Catplot, PairGrid), Matrix Plots (Heatmap, Clustermap)
 
 ✔ [Section 8](section_08_capstone_project_data_analyst): Data Analysis and Visualization Capstone Project Exercise<br>
 
-> Teste
+> Scatterplots, Correlation, Countplot, KDE Plot, Regplot, Histoplot, Merge, move_legend function, Clustermap, nsmallest
 
 ✔ Section 9: Machine Learning Concepts Overview<br>
 ✔ [Section 10](section_10_linear_regression): Linear Regression<br>
 
-> Teste
+> Linear Regression
+> > Teste, teste
+> Polynomial Regression
+> > Teste, teste
+> Regularization
+> > Teste, teste
 
 ✔ [Section 11](section_11_feature_engineering): Feature Engineering and Data Preparation<br>
 
