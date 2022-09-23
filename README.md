@@ -161,20 +161,36 @@ Numpy Operators.
 
 ✔ [Section 18](section_18_boosting_methods): Boosting Methods<br>
 
-> Teste
+> Adaboosting
+> - unique barplot visualization, Scikit-learn.ensemble (AdaBoostClassifier), Scikit-learn.metrics (classification_report,plot_confusion_matrix,accuracy_score), feature_importances_, feature_importances_.argmax(), lineplot of performance x number of features added, feature_importances_ DataFrame and barplot visualization <br>
+
+> Gradient-Boosting
+> - pd.get_dummies, Scikit-learn.ensemble (GradientBoostingClassifier), Scikit-learn.model_selection (GridSearchCV), feature_importances_ DataFrame and barplot visualization <br>
 
 ✔ [Section 19](section_19_supervised_learning_capstone_project_cohort_analysis): Supervised Learning Capstone Project- Cohort Analysis and Tree Based Methods<br>
 
-> Teste
+> supervised_learning_capstone_project_cohort_analysis
+> - Feature correlation barplot visualization, multiple distplot, lineplot of churn rate per months, new feature creation by joining months<br>
 
-✔ [Section 20](section_20_naive_bayes_classification_and_NLP): Naive Bayes Classification and Natural Language Processing (Supervised Learning)<br>
+✔ [Section 20](section_20_naive_bayes_classification_and_NLP): Naive Bayes Classification and Natural Language Processing (Supervised Learning) <br>
 
-> Teste
+> Feature-Extraction-From-Text
+> - Bag of Words, Bag of Words to Frequency Counts, Concepts (Bag of Words and Tf-idf, Stop Words and Word Stems, Tokenization and Tagging), Scikit-learn.feature_extraction.text (TfidfTransformer,TfidfVectorizer,CountVectorizer) <br>
+
+> Text-Classification
+> - Scikit-learn.feature_extraction.text (TfidfVectorizer), Scikit-learn.naive_bayes (MultinomialNB), PipeLine for Deployment <br>
 
 ✔ Section 21: Unsupervised Learning<br>
 ✔ [Section 22](section_22_kmeans_clustering): K-Means Clustering<br>
 
-> Teste
+> Kmeans-Clustering
+> -  <br>
+
+> Kmeans-Color-Quantization
+> -  <br>
+
+> Kmeans-Clustering-Project-Exercise
+> -  <br>
 
 ✔ [Section 23](section_23_hierarchical_clustering): Hierarchical Clustering<br>
 
