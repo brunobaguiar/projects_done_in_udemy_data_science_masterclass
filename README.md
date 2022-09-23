@@ -122,11 +122,18 @@ Numpy Operators.
 > - Scikit-learn.model_selection (LogisticRegression), predict_proba, Scikit-learn.metrics (accuracy_score, confusion_matrix, classification_report, plot_confusion_matrix, precision_recall_curve,plot_precision_recall_curve,plot_roc_curve) <br>
 
 > Multi Class Logistic Regression
-> - <br>
+> - Scikit-learn.model_selection (LogisticRegression, GridSearchCV), Scikit-learn.metrics (accuracy_score, confusion_matrix, classification_report, plot_confusion_matrix, roc_curve, auc)<br>
+
+> Logistic-Regression-Project-Exercise
+> - visualization of the coefficients using a barplot <br>
 
 ✔ [Section 14](section_14_K_nearest-neighbors): KNN-KNearest Neighbors<br>
 
-> Teste
+> KNN-Classification
+> - Scatterplot hyperparameters, Scikit-learn.neighbors (KNeighborsClassifier), Scikit-learn.pipeline (Pipeline), Scikit-learn.model_selection (GridSearchCV), Scikit-learn.metrics (classification_report, confusion_matrix, accuracy_score), Elbow Method, Full Cross Validation Grid Search for K Value, cv_results_.keys() <br>
+
+> KNN-Exercise
+> - Heatmap, map function, mean test scores per K value using .cvresults dictionary <br>
 
 ✔ [Section 15](section_15_SVM): Support Vector Machines<br>
 
