@@ -45,47 +45,43 @@ Summary of what I learned trough this course:
 ✔ [Section 4](section_04_numpy): NumPy<br>
 > Numpy Arrays, Random distributions of data, Key attributes and method calls of Numpy arrays, Indexing and Selection, 
 Numpy Operators.
-<br>
 ✔ [Section 5](section_05_pandas): Pandas<br>
-        - Series, Operations, DataFrames, Read csv files, Grabbing information from DataFrame, Columns, Grabbing information based on index and add more rows, Condtion Formating/Filter, Useful Methods, Identify and remove duplicates, Handle Missing Data, Groupby Operations, Concatenation, Merge, Text Methods, Time Methods, Data Input and Output, SQL (just basics)<br>
+> Series, Operations, DataFrames, Read csv files, Grabbing information from DataFrame, Columns, Grabbing information based on index and add more rows, Condtion Formating/Filter, Useful Methods, Identify and remove duplicates, Handle Missing Data, Groupby Operations, Concatenation, Merge, Text Methods, Time Methods, Data Input and Output, SQL (just basics).
 ✔ [Section 6](section_06_matplotlib): Matplotlib<br>
-        - Basics, Figure Object, Figure Parameters, Subplots, Legends, Styling<br>
+> Basics, Figure Object, Figure Parameters, Subplots, Legends, Styling.
 ✔ [Section 7](section_07_seaborn): Seaborn Data Visualizations<br>
-> 
 ✔ [Section 8](section_08_capstone_project_data_analyst): Data Analysis and Visualization Capstone Project Exercise<br>
-> 
 ✔ Section 9: Machine Learning Concepts Overview<br>
 ✔ [Section 10](section_10_linear_regression): Linear Regression<br>
-> 
 ✔ [Section 11](section_11_feature_engineering): Feature Engineering and Data Preparation<br>
-        #<br>
+
 ✔ [Section 12](section_12_cross_validation_and_linear_regression_project): Cross Validation, Grid Search, and the Linear Regression Project<br>
-        #<br>
+
 ✔ [Section 13](section_13_logistic_regression): Logistic Regression<br>
-        #<br>
+
 ✔ [Section 14](section_14_K_nearest-neighbors): KNN-KNearest Neighbors<br>
-        #<br>
+
 ✔ [Section 15](section_15_SVM): Support Vector Machines<br>
-        #<br>
+
 ✔ [Section 16](section_16_decision_trees): Tree Based Methods: Decision Tree Learning<br>
-        #<br>
+
 ✔ [Section 17](section_17_random_forests): Random Forests<br>
-        #<br>
+
 ✔ [Section 18](section_18_boosting_methods): Boosting Methods<br>
-        #<br>
+
 ✔ [Section 19](section_19_supervised_learning_capstone_project_cohort_analysis): Supervised Learning Capstone Project- Cohort Analysis and Tree Based Methods<br>
-        #<br>
+
 ✔ [Section 20](section_20_naive_bayes_classification_and_NLP): Naive Bayes Classification and Natural Language Processing (Supervised Learning)<br>
-        #<br>
+
 ✔ Section 21: Unsupervised Learning<br>
 ✔ [Section 22](section_22_kmeans_clustering): K-Means Clustering<br>
-        #<br>
+
 ✔ [Section 23](section_23_hierarchical_clustering): Hierarchical Clustering<br>
-        #<br>
+
 ✔ [Section 24](section_24_DBSCAN): DBSCAN-Density-based spatial clustering of applications with noise<br>
-        #<br>
+
 ✔ [Section 25](section_25_PCA): PCA- Principal Component Analysis and Manifold Learning<br>
-        #<br>
+
 ✔ Section 26: Model Deployment<br>
 [DATA](DATA) - All data used throughout the course
 
