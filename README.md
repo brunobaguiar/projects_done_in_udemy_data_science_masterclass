@@ -78,23 +78,51 @@ Numpy Operators.
 ✔ [Section 11](section_11_feature_engineering): Feature Engineering and Data Preparation<br>
 
 > Dealing with outliers
-> - S <br>
+> - Distplot, Boxplot, Heatmap, corr(), Scatterplot <br>
 
 > Dealing with Missing Data
-> - S <br>
+> - info, describe, isnull().sum(), function and barplot for percent_missing, Feature Extraction, Filling in Data, Drop rows, Imputation of Missing Data, transform, groupby <br>
 
 > Dealing with Categorical Data
-> - S <br>
+> - pd.get_dummies, select_dtypes, pd.concat, corr()<br>
 
 
 ✔ [Section 12](section_12_cross_validation_and_linear_regression_project): Cross Validation, Grid Search, and the Linear Regression Project<br>
 
-> Teste
+**Train | Test Split Procedure**
+1. Clean and adjust data as necessary for X and y
+2. Split Data in Train/Test for both X and y
+3. Fit/Train Scaler on Training X Data
+4. Scale X Test Data
+5. Create Model
+6. Fit/Train Model on X Train Data
+7. Evaluate Model on X Test Data (by creating predictions and comparing to Y_test)
+8. Adjust Parameters as Necessary and repeat steps 5 and 6
 
+**Train | Validation | Test Split Procedure**
+1. Clean and adjust data as necessary for X and y
+2. Split Data in Train/Validation/Test for both X and y
+3. Fit/Train Scaler on Training X Data
+4. Scale X Eval Data
+5. Create Model
+6. Fit/Train Model on X Train Data
+7. Evaluate Model on X Evaluation Data (by creating predictions and comparing to Y_eval)
+8. Adjust Parameters as Necessary and repeat steps 5 and 6
+9. Get final metrics on Test set (not allowed to go back and adjust after this!)
+
+> Cross Validation
+> - Train | Test Split Procedure, Train | Validation | Test Split Procedure, Scikit-learn.model_selection (cross_val_score, cross_validate) <br>
+
+> Grid Search
+> - Scikit-learn.model_selection (GridSearchCV), best_estimator_, best_params_, cv_results_ <br>
 
 ✔ [Section 13](section_13_logistic_regression): Logistic Regression<br>
 
-> Teste
+> Logistic Regression
+> - Scikit-learn.model_selection (LogisticRegression), predict_proba, Scikit-learn.metrics (accuracy_score, confusion_matrix, classification_report, plot_confusion_matrix, precision_recall_curve,plot_precision_recall_curve,plot_roc_curve) <br>
+
+> Multi Class Logistic Regression
+> - <br>
 
 ✔ [Section 14](section_14_K_nearest-neighbors): KNN-KNearest Neighbors<br>
 
