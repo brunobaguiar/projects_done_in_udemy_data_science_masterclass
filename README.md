@@ -43,12 +43,17 @@ Summary of what I learned trough this course:
 ✔ Section 2: OPTIONAL: Python Crash Course<br>
 ✔ Section 3: Machine Learning Pathway Overview<br>
 ✔ [Section 4](section_04_numpy): NumPy<br>
+
 > Numpy Arrays, Random distributions of data, Key attributes and method calls of Numpy arrays, Indexing and Selection, 
 Numpy Operators.
+
 ✔ [Section 5](section_05_pandas): Pandas<br>
+
 > Series, Operations, DataFrames, Read csv files, Grabbing information from DataFrame, Columns, Grabbing information based on index and add more rows, Condtion Formating/Filter, Useful Methods, Identify and remove duplicates, Handle Missing Data, Groupby Operations, Concatenation, Merge, Text Methods, Time Methods, Data Input and Output, SQL (just basics).
 ✔ [Section 6](section_06_matplotlib): Matplotlib<br>
+
 > Basics, Figure Object, Figure Parameters, Subplots, Legends, Styling.
+
 ✔ [Section 7](section_07_seaborn): Seaborn Data Visualizations<br>
 ✔ [Section 8](section_08_capstone_project_data_analyst): Data Analysis and Visualization Capstone Project Exercise<br>
 ✔ Section 9: Machine Learning Concepts Overview<br>
