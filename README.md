@@ -65,34 +65,67 @@ Numpy Operators.
 
 ✔ Section 9: Machine Learning Concepts Overview<br>
 ✔ [Section 10](section_10_linear_regression): Linear Regression<br>
+
+> Teste
+
 ✔ [Section 11](section_11_feature_engineering): Feature Engineering and Data Preparation<br>
+
+> Teste
+
 
 ✔ [Section 12](section_12_cross_validation_and_linear_regression_project): Cross Validation, Grid Search, and the Linear Regression Project<br>
 
+> Teste
+
+
 ✔ [Section 13](section_13_logistic_regression): Logistic Regression<br>
+
+> Teste
 
 ✔ [Section 14](section_14_K_nearest-neighbors): KNN-KNearest Neighbors<br>
 
+> Teste
+
 ✔ [Section 15](section_15_SVM): Support Vector Machines<br>
+
+> Teste
 
 ✔ [Section 16](section_16_decision_trees): Tree Based Methods: Decision Tree Learning<br>
 
+> Teste
+
 ✔ [Section 17](section_17_random_forests): Random Forests<br>
+
+> Teste
 
 ✔ [Section 18](section_18_boosting_methods): Boosting Methods<br>
 
+> Teste
+
 ✔ [Section 19](section_19_supervised_learning_capstone_project_cohort_analysis): Supervised Learning Capstone Project- Cohort Analysis and Tree Based Methods<br>
 
+> Teste
+
 ✔ [Section 20](section_20_naive_bayes_classification_and_NLP): Naive Bayes Classification and Natural Language Processing (Supervised Learning)<br>
+
+> Teste
 
 ✔ Section 21: Unsupervised Learning<br>
 ✔ [Section 22](section_22_kmeans_clustering): K-Means Clustering<br>
 
+> Teste
+
 ✔ [Section 23](section_23_hierarchical_clustering): Hierarchical Clustering<br>
+
+> Teste
 
 ✔ [Section 24](section_24_DBSCAN): DBSCAN-Density-based spatial clustering of applications with noise<br>
 
+> Teste
+
 ✔ [Section 25](section_25_PCA): PCA- Principal Component Analysis and Manifold Learning<br>
+
+> Teste
 
 ✔ Section 26: Model Deployment<br>
 [DATA](DATA) - All data used throughout the course
