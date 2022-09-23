@@ -68,6 +68,7 @@ Numpy Operators.
 
 > Linear Regression
 > - Teste, teste<br>
+
 > Polynomial Regression
 > - Teste, teste<br>
 > Regularization
