@@ -50,12 +50,19 @@ Numpy Operators.
 ✔ [Section 5](section_05_pandas): Pandas<br>
 
 > Series, Operations, DataFrames, Read csv files, Grabbing information from DataFrame, Columns, Grabbing information based on index and add more rows, Condtion Formating/Filter, Useful Methods, Identify and remove duplicates, Handle Missing Data, Groupby Operations, Concatenation, Merge, Text Methods, Time Methods, Data Input and Output, SQL (just basics).
+
 ✔ [Section 6](section_06_matplotlib): Matplotlib<br>
 
 > Basics, Figure Object, Figure Parameters, Subplots, Legends, Styling.
 
 ✔ [Section 7](section_07_seaborn): Seaborn Data Visualizations<br>
+
+> Teste
+
 ✔ [Section 8](section_08_capstone_project_data_analyst): Data Analysis and Visualization Capstone Project Exercise<br>
+
+> Teste
+
 ✔ Section 9: Machine Learning Concepts Overview<br>
 ✔ [Section 10](section_10_linear_regression): Linear Regression<br>
 ✔ [Section 11](section_11_feature_engineering): Feature Engineering and Data Preparation<br>
