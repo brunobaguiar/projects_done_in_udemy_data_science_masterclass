@@ -44,7 +44,7 @@ Summary of what I learned trough this course:
 ✔ Section 3: Machine Learning Pathway Overview<br>
 ✔ [Section 4](section_04_numpy): NumPy<br>
 
-> Numpy Arrays, Random distributions of data, Key attributes and method calls of Numpy arrays, Indexing and Selection, 
+> - Numpy Arrays, Random distributions of data, Key attributes and method calls of Numpy arrays, Indexing and Selection, 
 Numpy Operators.
 
 ✔ [Section 5](section_05_pandas): Pandas<br>
@@ -130,22 +130,34 @@ Numpy Operators.
 ✔ [Section 14](section_14_K_nearest-neighbors): KNN-KNearest Neighbors<br>
 
 > KNN-Classification
-> - Scatterplot hyperparameters, Scikit-learn.neighbors (KNeighborsClassifier), Scikit-learn.pipeline (Pipeline), Scikit-learn.model_selection (GridSearchCV), Scikit-learn.metrics (classification_report, confusion_matrix, accuracy_score), Elbow Method, Full Cross Validation Grid Search for K Value, cv_results_.keys() <br>
+> - Scatterplot parameters, Scikit-learn.neighbors (KNeighborsClassifier), Scikit-learn.pipeline (Pipeline), Scikit-learn.model_selection (GridSearchCV), Scikit-learn.metrics (classification_report, confusion_matrix, accuracy_score), Elbow Method, Full Cross Validation Grid Search for K Value, cv_results_.keys() <br>
 
 > KNN-Exercise
 > - Heatmap, map function, mean test scores per K value using .cvresults dictionary <br>
 
 ✔ [Section 15](section_15_SVM): Support Vector Machines<br>
 
-> Teste
+> SVM-Classification
+> - Scatterplot with hyperplane, Scikit-learn.svm (SVM), svm_margin_plot (plot_svm_boundary) <br>
+
+> SVM-Regression
+> - Heatmap parameters, Scikit-learn.svm (SVM, LinearSVR), Scikit-learn.metrics (mean_absolute_error,mean_squared_error), Scikit-learn.model_selection (GridSearchCV) <br>
+
+> SVM-Project-Exercise
+> - unbalanced dataset, map function, visualization of the coefficients using a barplot <br>
 
 ✔ [Section 16](section_16_decision_trees): Tree Based Methods: Decision Tree Learning<br>
 
-> Teste
+> Decision-Trees
+> - pd.get_dummies, Scikit-learn.tree (DecisionTreeClassifier, plot_tree), DataFrame of feature_importances_, report_model function (precision, recall, f1-score and plot_tree) <br>
 
 ✔ [Section 17](section_17_random_forests): Random Forests<br>
 
-> Teste
+> Random-Forest-Classification
+> - pd.get_dummies, Scikit-learn.ensemble (RandomForestClassifier), hyperparameter tunning <br>
+
+> Random-Forest-Regression
+> - sinusoid data set distribution, best models comparison (LinearRegression, PolynomialFeatures, KNeighborsRegressor, DecisionTreeRegressor, SVR, RandomForestRegressor, GradientBoostingRegressor, AdaBoostRegressor) <br>
 
 ✔ [Section 18](section_18_boosting_methods): Boosting Methods<br>
 
