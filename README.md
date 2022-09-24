@@ -184,25 +184,35 @@ Numpy Operators.
 ✔ [Section 22](section_22_kmeans_clustering): K-Means Clustering<br>
 
 > Kmeans-Clustering
-> -  <br>
+> - Categorical Features visualization, pd.get_dummies, Scikit-learn.cluster (KMeans), corr(), heatmap, corr().barplot, K value x sum of squared distances, model.inertia_, diff()<br>
 
 > Kmeans-Color-Quantization
-> -  <br>
+> - matplotlib.image, matplotlib.pyplot, Scikit-learn.cluster (KMeans), model.cluster_centers_ <br>
 
 > Kmeans-Clustering-Project-Exercise
-> -  <br>
+> - Barplot parameters, missing data evaluation, K value x sum of squared distances, model.inertia_, diff(), iso_codes, choropleth map <br>
 
 ✔ [Section 23](section_23_hierarchical_clustering): Hierarchical Clustering<br>
 
-> Teste
+> Hierarchical-Clustering
+> - Heatmap, Clustermap, Scikit-learn.cluster (AgglomerativeClustering), Linkage Model, Dendogram, cluster_labels <br>
 
 ✔ [Section 24](section_24_DBSCAN): DBSCAN-Density-based spatial clustering of applications with noise<br>
 
-> Teste
+> DBSCAN
+> - Different types of cluster data (blobs, moons, circles), Scikit-learn.cluster (KMeans, DBSCAN) <br>
+
+> DBSCAN-Hyperparameters
+> - display_categories function, Scikit-learn.cluster (DBSCAN) <br>
 
 ✔ [Section 25](section_25_PCA): PCA- Principal Component Analysis and Manifold Learning<br>
 
-> Teste
+> PCA-Manual-Implementation
+> - Scikit-learn.datasets (load_breast_cancer), covariance matrix, eigen_values, eigen_vectors, principal_components, 
+pca.n_components, pca.components_, pca.explained_variance_ratio_ <br>
+
+> PCA-Scikit-Learn
+> - Scikit-learn.decomposition (PCA), principal_components,  <br>
 
 ✔ Section 26: Model Deployment<br>
 [DATA](DATA) - All data used throughout the course
